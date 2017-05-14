@@ -1,5 +1,4 @@
 #!/bin/bash
-do
 cp config ~/.config/i3/config
 cp .conkyrc ~/.conkyrc
 cp ip.sh ~/.config/ip.sh
