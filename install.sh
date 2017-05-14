@@ -8,4 +8,3 @@ echo "feh --bg-scale ~/.config/w.png" > ~/.xprofile
 cp w.png ~/.config/w.png
 echo "bash ~/.config/trans-i3bar.sh &" > ~/.xprofile
 echo "feh --bg-scale ~/.config/w.png &" > ~/.xprofile
-done
