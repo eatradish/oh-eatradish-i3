@@ -1,5 +1,9 @@
 # oh-eatradish-i3
-eatradish 的 i3 配置
+eatradish 的 i3 配置。
+
+![avatar](https://eatradish.moe/pic1.png)
+
+
 
 # 需要安装的依赖:
 必须装的:
