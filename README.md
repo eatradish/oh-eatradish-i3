@@ -17,6 +17,11 @@ xfce4-screenshooter, compton, amixer, conky, i3-gaps, feh, xfce4-notifyd, konsol
 ```
 mate-power-manager
 ```
+我所使用的（不建议）安装的依赖:
+
+```
+infinality
+```
 
 建议配置：
 
