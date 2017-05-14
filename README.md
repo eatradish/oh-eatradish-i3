@@ -49,3 +49,5 @@ git clone https://github.com/eatradish/oh-eatradish-i3.git
 cd oh-eatradish-i3
 bash install.sh
 ```
+
+# EOF.
