@@ -9,7 +9,7 @@ eatradish 的 i3 配置。
 必须装的:
 
 ```
-xfce4-screenshooter, compton, amixer, conky, i3-gaps, feh, xfce4-notifyd
+xfce4-screenshooter, compton, amixer, conky, i3-gaps, feh, xfce4-notifyd, konsole, dmenu
 ```
 
 建议安装：
