@@ -28,7 +28,7 @@ git clone https://github.com/kamikat/vimrc.git .vim
 cd .vim
 git submodule update --init --recursive
 # 使用羽喵的 vimrc (https://github.com/kamikat/vimrc)
-# vim vimrc
+vim vimrc
 # 最后一行加入
 colorscheme heraldish
 hi! Normal ctermbg=NONE guibg=NONE
