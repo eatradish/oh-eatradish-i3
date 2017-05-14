@@ -4,5 +4,5 @@ cp .conkyrc ~/.conkyrc
 cp trans-i3bar.sh ~/.config/trans-i3bar.sh
 cp ip.sh ~/.config/ip.sh
 echo "bash ~/.config/trans-i3bar.sh &" > ~/.xprofile
-echo "feh --bg-scale ~/.config/w.png" > ~/.xprofile
+echo "feh --bg-scale ~/.config/w.png &" > ~/.xprofile
 done
