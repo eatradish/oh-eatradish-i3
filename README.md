@@ -18,6 +18,25 @@ xfce4-screenshooter, compton, amixer, conky, i3-gaps, feh, xfce4-notifyd, konsol
 mate-power-manager
 ```
 
+建议配置：
+
+```
+sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+# 安装 oh-my-zsh
+cd $HOME
+git clone https://github.com/kamikat/vimrc.git .vim
+cd .vim
+git submodule update --init --recursive
+# 使用羽喵的 vimrc (https://github.com/kamikat/vimrc)
+# vim .vim/vimrc
+# 最后一行加入
+colorscheme heraldish
+hi! Normal ctermbg=NONE guibg=NONE
+hi! NonText ctermbg=NONE guibg=NONE
+# 设置 vim 在终端背景透明
+```
+
+
 # 安装
 
 ```
